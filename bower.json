@@ -1,0 +1,26 @@
+{
+  "name": "OS02",
+  "authors": [
+    "thedude1979 <erik.filson@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "modernizr": "^3.3.1",
+    "angular": "^1.5.8"
+  },
+  "devDependencies": {
+    "cesium": "^1.22.2"
+  }
+}
